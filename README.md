@@ -5,5 +5,6 @@ Allow easy management of source code over time. state of project
  Form of backup for projects source code
  Speed up development process as a project can worked on easily by several developers
 
+##Uses
  Most commonly used VCS is Git
  Git hub  hosting services for Git repositories
