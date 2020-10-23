@@ -1,10 +1,10 @@
 # Version Control Systems(VCS)
-Allow easy management of source code over time. It's advantages allows easy checking of:-
-state of project
-history of changes
-It is also easy to revert
-Form of backup for projects source code
-Speed up development process as a project can worked on easily by several developers
+1.Allow easy management of source code over time. It's advantages allows easy checking of:-
+1.state of project
+1.history of changes
+1.It is also easy to revert
+1.Form of backup for projects source code
+1.Speed up development process as a project can worked on easily by several developers
 
 ## Uses
 Most commonly used VCS is Git
