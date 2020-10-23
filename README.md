@@ -22,3 +22,4 @@ Git hub hosting services for Git repositories
 var keyword = 123;
 let now = new Date();
 ```
+![Random photo](https://source.unsplash.com/daily)
